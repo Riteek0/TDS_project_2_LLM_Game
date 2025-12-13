@@ -507,7 +507,7 @@ We welcome contributions! Here's how you can help:
 ```
 MIT License
 
-Copyright (c) 2025 Ayusman Samasi (Hariswar)
+Copyright (c) 2025 Riteek kumar
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -538,10 +538,6 @@ SOFTWARE.
 
 🎓 **IIT Madras** — Tools in Data Science (TDS) Project 2025
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayusman-samasi/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github)](https://github.com/Hariswar8018)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hariswar8018@gmail.com)
-
 </div>
 
 ---
@@ -565,7 +561,7 @@ It can **scrape**, **compute**, **analyze**, **visualize**, and **submit answers
 
 ### ⭐ If you find this project helpful, please consider giving it a star!
 
-### 🐛 Found a bug? Have a feature request? [Open an issue!](https://github.com/Hariswar8018/LLM-Quiz-Solver-Enhanced/issues)
+
 
 ---
 
